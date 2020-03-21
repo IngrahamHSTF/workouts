@@ -2,6 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+header {
+  #logo {
+    position:absolute;
+    right:7px;
+    top:7px;
+    background: url(../images/ihs.jpg);
+  }
+}
 #banner {
   z-index: 100;
   left:0;
