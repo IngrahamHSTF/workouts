@@ -37,6 +37,15 @@
       background-color: #ffeca0;
     }
   }
+   #logo {
+    position:absolute;
+    height: 36px;
+    width: 36px;
+    right:7px;
+    top:7px;
+    display: block;
+    background: url(../images/ihs.jpg);
+  }
 }
 body {
   font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
